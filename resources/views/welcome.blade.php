@@ -75,7 +75,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Laravel Deployment With RunCloud
                 </div>
 
                 <div class="links">
